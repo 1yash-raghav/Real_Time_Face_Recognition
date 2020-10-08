@@ -21,4 +21,4 @@ The Machine Learning Model detects the face of the person at real time and displ
 <br/>
 
 # Details: <br/>
-The model usses haarcascade for face detection. Runnung the first file forms the dataset by capturing the image data of the person and saving it as a numpyarray. Second file predicts the name of the concerned user.
+The model usses haarcascade for face detection. Running the first file forms the dataset by capturing the image data of the person and saving it as a numpyarray. Second file predicts the name of the concerned user.
